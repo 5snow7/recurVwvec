@@ -6,7 +6,7 @@ function setup(){
 	can=createCanvas(800,600);
 	can.position(25,25);
 	can.class("bdd");
-	
+	p5=select('#pa');p5.position(800,100);
 	//can.mousePressed(nextlevel);
 	}
 	let k=12;

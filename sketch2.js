@@ -1,11 +1,12 @@
 
-let can;
+let can;let p5;
 function setup(){
 	start();startRad();
 	angleMode(radians);
 	can=createCanvas(800,600);
 	can.position(25,25);
 	can.class("bdd");
+	//p5=select('#pa');p5.position(800,100);
 	
 	//can.mousePressed(nextlevel);
 	}
