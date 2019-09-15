@@ -1,0 +1,3 @@
+when subtracting vectors p5.Vector.sub(vend,vstart);
+
+when adding vectors p5.Vector.add(vec,vecaddedon);
